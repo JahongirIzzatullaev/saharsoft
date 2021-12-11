@@ -707,7 +707,6 @@ Author:
 			StrPartnerSlider: function (){
 				$('#str-partner-slide').owlCarousel({
 					margin: 105,
-					autoplay: true,
 					loop: true,
 					nav: false,
 					dots: false,
